@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Helm project — a ship's wheel">
+  <g stroke="#3a4761" stroke-width="3" stroke-linecap="round">
+    <line x1="100" y1="54" x2="100" y2="26"/>
+    <line x1="100" y1="146" x2="100" y2="174"/>
+    <line x1="54" y1="100" x2="26" y2="100"/>
+    <line x1="146" y1="100" x2="174" y2="100"/>
+    <line x1="67" y1="67" x2="47" y2="47"/>
+    <line x1="133" y1="133" x2="153" y2="153"/>
+    <line x1="133" y1="67" x2="153" y2="47"/>
+    <line x1="67" y1="133" x2="47" y2="153"/>
+  </g>
+  <circle cx="100" cy="100" r="46" fill="none" stroke="#3a4761" stroke-width="3"/>
+  <circle cx="100" cy="100" r="15" fill="none" stroke="#EF9F27" stroke-width="3"/>
+  <circle cx="100" cy="100" r="5" fill="#EF9F27"/>
+  <g fill="#0d1420" stroke="#3a4761" stroke-width="2.5">
+    <circle cx="100" cy="24" r="7"/><circle cx="100" cy="176" r="7"/>
+    <circle cx="24" cy="100" r="7"/><circle cx="176" cy="100" r="7"/>
+    <circle cx="45" cy="45" r="7"/><circle cx="155" cy="155" r="7"/>
+    <circle cx="155" cy="45" r="7"/><circle cx="45" cy="155" r="7"/>
+  </g>
+</svg>
