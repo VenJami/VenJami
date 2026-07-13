@@ -3,14 +3,14 @@
   SETUP
   1. Repo named EXACTLY:  VenJami
   2. This README.md at the repo root.
-  3. The  assets/  folder (banner.svg, about.svg, helm.svg) at the repo root,
+  3. The  assets/  folder (voyage-v2.svg, about.svg, helm.svg) at the repo root,
      so the raw URLs below resolve. Repo must be public.
 ============================================================================
 -->
 
 <!-- ========================= BANNER ========================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VenJami/VenJami/main/assets/banner.svg" width="100%" alt="Jami, builds things that live in the terminal"/>
+  <img src="https://raw.githubusercontent.com/VenJami/VenJami/main/assets/voyage-v2.svg" width="100%" alt="Jami, a rocket voyage through deep space"/>
 </p>
 
 <!-- ========================= ABOUT ========================= -->
