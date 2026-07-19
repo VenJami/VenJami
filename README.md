@@ -47,7 +47,7 @@ than about whatever tool gets me there.
 <tr>
 <td>
 
-**Helm** &nbsp; `TypeScript` &nbsp; ★ 4 <br/>
+**Helm** &nbsp; `TypeScript` &nbsp; ★ 6 <br/>
 A local ops hub for Claude Code. It shows a live grid of CLI sessions with
 working and waiting status, tracks usage and cost, handles multiple account
 profiles, and lets you revive old sessions. <br/>
