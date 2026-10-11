@@ -83,6 +83,7 @@ profiles, and lets you revive old sessions. <br/>
 
 ## Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VenJami&bg_color=0b0e14&color=EF9F27&line=EF9F27&point=ffffff&area=true&hide_border=true&custom_title=Jami's%20Contribution%20Graph" width="100%" alt="Contribution graph"/>
+<!-- Regenerated daily by .github/workflows/activity.yml -->
+<img src="https://raw.githubusercontent.com/VenJami/VenJami/main/assets/activity.svg" width="100%" alt="Contribution graph"/>
 
 </div>
